@@ -1,4 +1,4 @@
-package methods;
+package basic_Programs;
 
 public class Program1 {
     public static void main(String[] args) {
